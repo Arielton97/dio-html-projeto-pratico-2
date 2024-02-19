@@ -9,6 +9,9 @@ O [GitHub - DIO](https://github.com/digitalinnovationone) - [Trilha HTML](https:
 
 =================================================================
 
+
+
+
 Usei bastante como documentação os sites: 
 
 [W3 SCHOOLS](https://www.w3schools.com/) 
@@ -19,8 +22,9 @@ Usei bastante como documentação os sites:
 
 [W3 SCHOOLS - HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
 
-
 =================================================================
+
+
 
 
 Algumas as tags usadas no trabalho:
