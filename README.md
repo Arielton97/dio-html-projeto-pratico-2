@@ -8,6 +8,7 @@ Neste projeto foi pedido pelo instrutor que criassemos um site bem básico para 
 O [GitHub - DIO](https://github.com/digitalinnovationone) - [Trilha HTML](https://github.com/digitalinnovationone/trilha-html-modulo-2?tab=readme-ov-file#estrutura-das-p%C3%A1ginas) contém as informações e instruções básicas para montar a estrutura semântica do site.
 
 ====================================================================================================================================
+
 Usei bastante como documentação os sites: 
 
 [W3 SCHOOLS](https://www.w3schools.com/) 
